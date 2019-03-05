@@ -6,10 +6,9 @@ date: "2019-03-05T22:12:03.284Z"
 
 
 So I wanted to learn Gatsby to know whats Static Site generators.
-
-*So far it has been a breeze.
-*Actually a Spring breeze.
-*There is a few conventions to follow and you will be up and ready in no time.
+  * So far it has been a breeze.
+  * Actually a Spring breeze.
+  * There is a few conventions to follow and you will be up and ready in no time.
 
 Start your own use this button(This will deploy to Netlify and your GitHub with a continuos deployment setup):
 
