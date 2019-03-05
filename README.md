@@ -1,6 +1,8 @@
-This is for my personal blog
+This is for my personal blog.
 Gatsby.JS  on Netlify
 Goals:
+
+
 - Start a blog
 - Learn gatsby
 - Learn Graph QL
