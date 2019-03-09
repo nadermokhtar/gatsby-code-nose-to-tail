@@ -23,4 +23,4 @@ Tools I am using for:
 * Running regularly
 * practicing vanulnrablity
 
->So any comments or feedback you have on this blog I will add it to the conversation just email me at nader.mohktar@gmail.com until I make time to add comment section here. - Nader Mokhtar
+>Any comments or feedback you have on this blog I will add it to the conversation just email me at nader.mohktar@gmail.com until I make the time to add comment section here. - Nader Mokhtar

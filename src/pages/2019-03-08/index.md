@@ -16,4 +16,4 @@ So I am looking to be much better at writing, communicating because one of the k
 
 Look for a blog post every day.
 
->So any comments or feedback you have on this blog I will add it to the conversation just email me at nader.mohktar@gmail.com until I make time to add comment section here. - Nader Mokhtar
+>Any comments or feedback you have on this blog I will add it to the conversation just email me at nader.mohktar@gmail.com until I make the time to add comment section here. - Nader Mokhtar
