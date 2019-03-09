@@ -27,7 +27,7 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Exploration's by <strong>Nader Mokhtar</strong> who lives in Boston, from Egypt? loves Technology that gets out of the way to make magic happen.{' '}
+          Exploration's by <strong>Nader Mokhtar</strong> who lives in Boston, from Egypt? I love Technology that gets out of the way to make magic happen.{' '}
           <a href="https://www.linkedin.com/in/nmokhtar/">
             Reach out
           </a>
